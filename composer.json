@@ -1,0 +1,12 @@
+{
+    "name": "aten/formulae",
+    "description": "Main collection of recipes for Drupal.",
+    "type": "drupal-recipe",
+    "authors": [
+        {
+            "name": "Seth Hill",
+            "email": "seth@atendesigngroup.com"
+        }
+    ],
+    "require": {}
+}
