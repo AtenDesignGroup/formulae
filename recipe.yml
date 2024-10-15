@@ -1,3 +1,7 @@
 name: 'Formulae'
 description: 'Main collection of recipes for Drupal.'
 type: 'Site'
+recipes:
+  - formulae-content-types
+  - formulae-markerio
+  - formulae-paragraphs
