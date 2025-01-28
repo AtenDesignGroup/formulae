@@ -1,7 +1,9 @@
-name: 'Formulae'
+name: '🦄 🌈  Aten Formulas'
 description: 'Main collection of recipes for Drupal.'
 type: 'Site'
 recipes:
-  - formulae-content-types
-  - formulae-markerio
-  - formulae-paragraphs
+  - formula-foundational
+  - formula-media
+  - formula-paragraphs
+  - formula-events
+  - formula-news
